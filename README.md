@@ -69,6 +69,6 @@ Si vous rencontrez des problèmes ou avez des questions, n'hésitez pas à poser
 Merci d'utiliser ce kit, et bon codage !
 
 
+<img width="641" alt="Capture d’écran 2025-03-08 à 16 07 23" src="https://github.com/user-attachments/assets/c12ce65b-9e4c-44d5-97cd-6006712d5439" />
 
-<img width="1424" alt="landing-page" src="https://github.com/user-attachments/assets/faac97cf-1f4c-4d70-94af-c93d6e1c272e" />
 
