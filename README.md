@@ -1,3 +1,5 @@
+Entrainement reproduction projet de Remote Monkey.
+
 # Remote Monkey Kit
 
 Ce kit inclut des ressources et une architecture prête à l'emploi.
@@ -65,3 +67,8 @@ Si vous rencontrez des problèmes ou avez des questions, n'hésitez pas à poser
 ---
 
 Merci d'utiliser ce kit, et bon codage !
+
+
+
+<img width="1424" alt="landing-page" src="https://github.com/user-attachments/assets/faac97cf-1f4c-4d70-94af-c93d6e1c272e" />
+
