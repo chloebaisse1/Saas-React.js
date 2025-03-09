@@ -12,6 +12,8 @@ function App() {
       <Branding />
       <Features />
       <CallToAction />
+
+      <CallToAction minify />
     </>
   )
 }
